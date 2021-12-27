@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+.heading
+{
+   font-size: 23px;
+   width:100%;
+   margin: 0px;
+   height:180px;
+   box-shadow:15px 1px 15px rgb(13, 151, 231);
+}
+
+.heading_div{
+    float:none;
+    background: white;
+    padding:10px;
+    border-radius:20px;
+    color:black;
+}
+
+h3 
+  {
+  font-family:monospace;
+
+  }
+.heading_div2
+{
+  font-size: 18px;
+  background-color: blueviolet;
+  box-shadow: 10px 5px 5px pink;
+
+}
+.result_para_tag
+{
+   box-shadow: 5px 5px 5px rgb(63,201,63);
+   font-size:20px;
+   margin-top: 10px;
+ }
+
+ #Accuracy{
+   margin-left: 400px;
+ }
+.copy_right_footer{
+    position:fixed;
+    color:rgb(0, 0, 0);
+    bottom:0;
+    width:100%;
+    background-color: rgb(252, 196, 76);
+    line-height:1.3;
+    font-size: 20px;
+}
+  canvas{
+    border:6px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(63, 201, 63);
+    margin-top: 210px;
+  }
+  b{
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+    color: maroon;
+  }
+
